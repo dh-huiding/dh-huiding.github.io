@@ -23,7 +23,7 @@ Publications
   
 Working Papers
 ======
- - [Geographic Variation in Mental Health Care: Evidence from Migration]('/files/Ding_MH_GeoVariation.pdf').
- - [Getting the Price Right? The Impact of Competitive Bidding in the Medicare Program]('/files/DME_Draft.pdf'). Conditionally accepted at the *Review of Economics and Statistics*. Joint with Mark Duggan and Amanda Starc
- - [Germs in the Family: The Long-Term Consequences of Intra-Household Endemic Respiratory Disease Spread]('/files/ChildSickness_Draft.pdf'). Joint with N. Meltem Daysal, Maya Rossin-Slater, and Hannes Schwandt
+ - [Geographic Variation in Mental Health Care: Evidence from Migration](files/Ding_MH_GeoVariation.pdf).
+ - [Getting the Price Right? The Impact of Competitive Bidding in the Medicare Program](files/DME_Draft.pdf). Conditionally accepted at the *Review of Economics and Statistics*. Joint with Mark Duggan and Amanda Starc
+ - [Germs in the Family: The Long-Term Consequences of Intra-Household Endemic Respiratory Disease Spread](files/ChildSickness_Draft.pdf). Joint with N. Meltem Daysal, Maya Rossin-Slater, and Hannes Schwandt
   
