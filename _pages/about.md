@@ -19,13 +19,16 @@ Education
 
 Publications
 ======
- - [The Effects of Chronic Disease Management in Primary Health Care: Evidence from Rural China](https://www.sciencedirect.com/science/article/pii/S0167629621001247) (2021) *Journal of Health Economics*. <span style="color:gray;font-weight:400;font-size:11px">
-    Joint Yiwei Chen, Min Yu, Jieming Zhong, Ruying Hu, Xiangyu Chen, Chunmei Wang, Kaixu Xie, and Karen Eggleston.
-</span>
+ - [The Effects of Chronic Disease Management in Primary Health Care: Evidence from Rural China](https://www.sciencedirect.com/science/article/pii/S0167629621001247). *Journal of Health Economics*. (2021) 
+ <span style="color:gray">
+    Joint Yiwei Chen, Min Yu, Jieming Zhong, Ruying Hu, Xiangyu Chen, Chunmei Wang, Kaixu Xie, and Karen Eggleston. 
+ </span>
   
 Working Papers
 ======
  - [Geographic Variation in Mental Health Care: Evidence from Migration](files/Ding_MH_GeoVariation.pdf).
- - [Getting the Price Right? The Impact of Competitive Bidding in the Medicare Program](files/DME_Draft.pdf). Conditionally accepted at the *Review of Economics and Statistics*. Joint with Mark Duggan and Amanda Starc
- - [Germs in the Family: The Long-Term Consequences of Intra-Household Endemic Respiratory Disease Spread](files/ChildSickness_Draft.pdf). Joint with N. Meltem Daysal, Maya Rossin-Slater, and Hannes Schwandt
+ - [Getting the Price Right? The Impact of Competitive Bidding in the Medicare Program](files/DME_Draft.pdf). Conditionally accepted at the *Review of Economics and Statistics*. 
+ <span style="color:gray"> Joint with Mark Duggan and Amanda Starc  </span>
+ - [Germs in the Family: The Long-Term Consequences of Intra-Household Endemic Respiratory Disease Spread](files/ChildSickness_Draft.pdf). 
+ <span style="color:gray">Joint with N. Meltem Daysal, Maya Rossin-Slater, and Hannes Schwandt  </span>
   
