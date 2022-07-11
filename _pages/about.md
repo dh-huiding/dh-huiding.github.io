@@ -8,19 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Associate at Princeton University's Center for Health and Wellbeing. My research focuses on demand and supply-side factors of health care utilization, especially in mental health care setting, and the role of public insurance in setting prices, promoting new technology, and adjusting patients' and providers' behavior. 
+I am a Postdoctoral Research Associate at Princeton University's Center for Health and Wellbeing. My research focuses on demand and supply-side factors of health care utilization, especially in mental health care setting, and the role of public insurance in setting price, promoting new technology, and adjusting patients' and providers' behavior. 
 
 
 Education
 ======
 * Ph.D in Economics, Stanford University, 2022
 * B.A. in Economics, Peking University, 2016
-* B.S. in Psychology (double major), Peking University, 2016
 
 
 Publications
 ======
- - The Effects of Chronic Disease Management in Primary Health Care: Evidence from Rural China (2021) Journal of Health Economics. Joint Yiwei Chen, Min Yu, Jieming Zhong, Ruying Hu, Xiangyu Chen, Chunmei Wang, Kaixu Xie, and Karen Eggleston.
+ - [The Effects of Chronic Disease Management in Primary Health Care: Evidence from Rural China](https://www.sciencedirect.com/science/article/pii/S0167629621001247") (2021) *Journal of Health Economics*. Joint Yiwei Chen, Min Yu, Jieming Zhong, Ruying Hu, Xiangyu Chen, Chunmei Wang, Kaixu Xie, and Karen Eggleston.
   
 Working Papers
 ======
