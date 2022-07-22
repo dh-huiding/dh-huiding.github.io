@@ -21,7 +21,7 @@ Publications
 ======
  - [The Effects of Chronic Disease Management in Primary Health Care: Evidence from Rural China](https://www.sciencedirect.com/science/article/pii/S0167629621001247). *Journal of Health Economics*. (2021) 
  <span style="color:gray">
-    Joint Yiwei Chen, Min Yu, Jieming Zhong, Ruying Hu, Xiangyu Chen, Chunmei Wang, Kaixu Xie, and Karen Eggleston. 
+    Joint with Yiwei Chen, Min Yu, Jieming Zhong, Ruying Hu, Xiangyu Chen, Chunmei Wang, Kaixu Xie, and Karen Eggleston. 
  </span>
   
 Working Papers
