@@ -12,4 +12,8 @@ redirect_from:
 
 
 <!-- <iframe src="https://docs.google.com/document/d/e/2PACX-1vSKLBCog_f5cGN3jv6kk5ZwvsdER5ZrHdgUpla_ydHHDk4nBO2emueWTTDw94i483Q4VX8nrzIWddYs/pub?embedded=true" width="100%" height=1200></iframe>-->
- <object data="../files/Ding_CV_202207.pdf#toolbar=0&navpanes=0&scrollbar=0" width="100%" height="120%" type='application/pdf'></object>
+ <object data="../files/Ding_CV_202207.pdf" width="100%" height="120%" type='application/pdf'>
+	<embed src="../files/Ding_CV_202207.pdf" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../files/Ding_CV_202207.pdf">Download PDF</a>.</p>
+    </embed>
+ </object>
