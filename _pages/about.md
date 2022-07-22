@@ -11,10 +11,12 @@ redirect_from:
 I am a Postdoctoral Research Associate at Princeton University's Center for Health and Wellbeing. My research focuses on demand and supply-side factors of health care utilization, especially in mental health care setting, and the role of public insurance in setting price, promoting new technology, and adjusting patients' and providers' behavior. 
 
 
+
 Education
 ======
 - Ph.D in Economics, Stanford University, 2022
 - B.A. in Economics, Peking University, 2016
+
 
 
 Publications
@@ -23,7 +25,8 @@ Publications
  <span style="color:gray">
     Joint with Yiwei Chen, Min Yu, Jieming Zhong, Ruying Hu, Xiangyu Chen, Chunmei Wang, Kaixu Xie, and Karen Eggleston. 
  </span>
-  
+ 
+
 Working Papers
 ======
  - [Geographic Variation in Mental Health Care: Evidence from Migration](files/Ding_MH_GeoVariation.pdf).
