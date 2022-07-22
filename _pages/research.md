@@ -10,13 +10,13 @@ redirect_from:
 Working Papers
 ======
 
-[**Geographic Variation in Mental Health Care: Evidence from Migration**](files/Ding_MH_GeoVariation.pdf)
+## [Geographic Variation in Mental Health Care: Evidence from Migration](files/Ding_MH_GeoVariation.pdf)
  
  <span style="color:gray"> Mental illnesses, including depression and anxiety, are widespread among elderly adults in the U.S. Although treatments are known to be effective for many mental health conditions, care utilization rates vary substantially across geographic areas. Using administrative data from Medicare, this paper isolates the patient- and place-specific drivers of the geographic variation in mental health care use among elderly adults. Specifically, I use an event-study framework with individual fixed effects to study changes in mental health care utilization for patients who move across areas with differing rates of average utilization. My results show that 60 percent of the geographic variation is attributed to place-specific factors. I then explore components of the "place effect", finding that mental health care provider capacity explains only one tenth of it. Beyond that, local attitudes toward mental health play an important role, as shown by asymmetric responses for people who move from low-to-high and high-to-low care utilization areas, especially among those who were never diagnosed with any mental illness before moving. Lastly, I find a strong negative correlation between area-level mental health care utilization and suicide rates, and suggestive evidence that moving to high utilization areas is associated with a lower risk of self-harm-related Emergency Department visits. These findings suggest that promoting mental health care could benefit the elderly population, and that there is substantial scope for achieving this goal with interventions targeting place-specific factors. </span>
  
  
  <br/> 
-[Getting the Price Right? The Impact of Competitive Bidding in the Medicare Program](files/DME_Draft.pdf) <br/>
+### [Getting the Price Right? The Impact of Competitive Bidding in the Medicare Program](files/DME_Draft.pdf) <br/>
 Joint with Mark Duggan and Amanda Starc <br/>
 Conditionally accepted at the *Review of Economics and Statistics*
  
@@ -24,7 +24,7 @@ Conditionally accepted at the *Review of Economics and Statistics*
 
 
  <br/> 
-[Germs in the Family: The Long-Term Consequences of Intra-Household Endemic Respiratory Disease Spread](files/ChildSickness_Draft.pdf)<br/> 
+#### [Germs in the Family: The Long-Term Consequences of Intra-Household Endemic Respiratory Disease Spread](files/ChildSickness_Draft.pdf)<br/> 
 Joint with N. Meltem Daysal, Maya Rossin-Slater, and Hannes Schwandt 
  
  <span style="color:gray"> While the COVID-19 pandemic has laid bare the large costs of infectious diseases, less attention has been paid to the impacts of more common, endemic respiratory viruses that frequently circulate in the population, especially when it comes to their potential long-term consequences for population health, human capital, and economic outcomes. This paper uses Danish population-level administrative data on 35 birth cohorts of children to provide a comprehensive analysis of both the mechanisms through which infants become infected by respiratory illnesses, as well as the consequences of early-life respiratory disease exposure for their later outcomes. First, we document a striking difference in the likelihood of severe respiratory illness by birth order: younger siblings have two to three times higher rates of hospitalization for respiratory conditions before age one than older siblings at the same age. We argue that the family unit is central in virus transmission, with older children “bringing home” the virus to their younger siblings. We then combine the birth order variation with within-municipality variation in respiratory disease prevalence among preschool-aged children to identify differential long-term impacts of early-life respiratory illness between younger and older siblings. We find that moving from the 25th to the 75th percentile in the local disease prevalence distribution (“disease index”) is associated with a 30.9 percent differential increase in the number of respiratory illness hospitalizations in the first year of life for younger compared to older siblings. In the long term, for younger relative to older siblings, we find a 0.5 percent differential reduction in the likelihood of high school graduation, and a 1.3 percent additional reduction in age-30 earnings.  </span>  <br/> <br/>
@@ -34,7 +34,7 @@ Joint with N. Meltem Daysal, Maya Rossin-Slater, and Hannes Schwandt
  Publications in Economics
 ======
 
-[The Effects of Chronic Disease Management in Primary Health Care: Evidence from Rural China](https://www.sciencedirect.com/science/article/pii/S0167629621001247) <br/>
+##### [The Effects of Chronic Disease Management in Primary Health Care: Evidence from Rural China](https://www.sciencedirect.com/science/article/pii/S0167629621001247) <br/>
 Joint with Yiwei Chen, Min Yu, Jieming Zhong, Ruying Hu, Xiangyu Chen, Chunmei Wang, Kaixu Xie, and Karen Eggleston
 *Journal of Health Economics* (2021) 
 
