@@ -18,7 +18,7 @@ Working Papers
 
 ## [Getting the Price Right? The Impact of Competitive Bidding in the Medicare Program](files/DME_Draft.pdf) <br/>
 Joint with Mark Duggan and Amanda Starc <br/>
-Conditionally accepted at the *Review of Economics and Statistics*
+Accepted at the *Review of Economics and Statistics*
  
 <span style="color:gray">  We study Medicare’s competitive bidding program (CBP) for durable medical equipment (DME). We use Medicare claims data to examine the effect on prices and utilization, focusing on continuous positive airway pressure (CPAP) devices for sleep apnea. We find that spending falls by 47.2% percent after a highly imperfect bidding mechanism is introduced. This is almost entirely driven by a 44.8% price reduction, though quantities also fall by 4.3%. To disentangle supply and demand, we leverage differential cost sharing across Medicare recipients. We measure a demand elasticity of -0.272 and find that quantity reductions are concentrated among less clinically appropriate groups. </span>
 
