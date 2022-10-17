@@ -16,13 +16,6 @@ Working Papers
  <span style="color:gray"> Mental illnesses, including depression and anxiety, are widespread among elderly adults in the U.S. Although treatments are known to be effective for many mental health conditions, care utilization rates vary substantially across geographic areas. Using administrative data from Medicare, this paper isolates the patient- and place-specific drivers of the geographic variation in mental health care use among elderly adults. Specifically, I use an event-study framework with individual fixed effects to study changes in mental health care utilization for patients who move across areas with differing rates of average utilization. My results show that 60 percent of the geographic variation is attributed to place-specific factors. I then explore components of the "place effect", finding that mental health care provider capacity explains only one tenth of it. Beyond that, local attitudes toward mental health play an important role, as shown by asymmetric responses for people who move from low-to-high and high-to-low care utilization areas, especially among those who were never diagnosed with any mental illness before moving. Lastly, I find a strong negative correlation between area-level mental health care utilization and suicide rates, and suggestive evidence that moving to high utilization areas is associated with a lower risk of self-harm-related Emergency Department visits. These findings suggest that promoting mental health care could benefit the elderly population, and that there is substantial scope for achieving this goal with interventions targeting place-specific factors. </span>
  
 
-## [Getting the Price Right? The Impact of Competitive Bidding in the Medicare Program](files/DME_Draft.pdf) <br/>
-Joint with Mark Duggan and Amanda Starc <br/>
-Accepted at the *Review of Economics and Statistics*
- 
-<span style="color:gray">  We study Medicare’s competitive bidding program (CBP) for durable medical equipment (DME). We use Medicare claims data to examine the effect on prices and utilization, focusing on continuous positive airway pressure (CPAP) devices for sleep apnea. We find that spending falls by 47.2% percent after a highly imperfect bidding mechanism is introduced. This is almost entirely driven by a 44.8% price reduction, though quantities also fall by 4.3%. To disentangle supply and demand, we leverage differential cost sharing across Medicare recipients. We measure a demand elasticity of -0.272 and find that quantity reductions are concentrated among less clinically appropriate groups. </span>
-
-
 ## [Germs in the Family: The Long-Term Consequences of Intra-Household Endemic Respiratory Disease Spread](files/ChildSickness_Draft.pdf)<br/> 
 Joint with N. Meltem Daysal, Maya Rossin-Slater, and Hannes Schwandt 
  
@@ -32,6 +25,13 @@ Joint with N. Meltem Daysal, Maya Rossin-Slater, and Hannes Schwandt
 
  Publications in Economics
 ======
+
+## [Getting the Price Right? The Impact of Competitive Bidding in the Medicare Program](files/DME_Draft.pdf) <br/>
+Joint with Mark Duggan and Amanda Starc <br/>
+Forthcoming at the *Review of Economics and Statistics*
+ 
+<span style="color:gray">  We study Medicare’s competitive bidding program (CBP) for durable medical equipment (DME). We use Medicare claims data to examine the effect on prices and utilization, focusing on continuous positive airway pressure (CPAP) devices for sleep apnea. We find that spending falls by 47.2% percent after a highly imperfect bidding mechanism is introduced. This is almost entirely driven by a 44.8% price reduction, though quantities also fall by 4.3%. To disentangle supply and demand, we leverage differential cost sharing across Medicare recipients. We measure a demand elasticity of -0.272 and find that quantity reductions are concentrated among less clinically appropriate groups. </span>
+
 
 ## [The Effects of Chronic Disease Management in Primary Health Care: Evidence from Rural China](https://www.sciencedirect.com/science/article/pii/S0167629621001247) <br/>
 Joint with Yiwei Chen, Min Yu, Jieming Zhong, Ruying Hu, Xiangyu Chen, Chunmei Wang, Kaixu Xie, and Karen Eggleston
