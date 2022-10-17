@@ -11,7 +11,8 @@ redirect_from:
 Working Papers
 ======
 
-## [Geographic Variation in Mental Health Care: Evidence from Migration](files/Ding_MH_GeoVariation.pdf)
+## [Geographic Variation in Mental Health Care: Evidence from Migration]
+(files/Ding_MH_GeoVariation.pdf)
  
  <span style="color:gray"> Mental illnesses, including depression and anxiety, are widespread among elderly adults in the U.S. Although treatments are known to be effective for many mental health conditions, care utilization rates vary substantially across geographic areas. Using administrative data from Medicare, this paper isolates the patient- and place-specific drivers of the geographic variation in mental health care use among elderly adults. Specifically, I use an event-study framework with individual fixed effects to study changes in mental health care utilization for patients who move across areas with differing rates of average utilization. My results show that 60 percent of the geographic variation is attributed to place-specific factors. I then explore components of the "place effect", finding that mental health care provider capacity explains only one tenth of it. Beyond that, local attitudes toward mental health play an important role, as shown by asymmetric responses for people who move from low-to-high and high-to-low care utilization areas, especially among those who were never diagnosed with any mental illness before moving. Lastly, I find a strong negative correlation between area-level mental health care utilization and suicide rates, and suggestive evidence that moving to high utilization areas is associated with a lower risk of self-harm-related Emergency Department visits. These findings suggest that promoting mental health care could benefit the elderly population, and that there is substantial scope for achieving this goal with interventions targeting place-specific factors. </span>
  
