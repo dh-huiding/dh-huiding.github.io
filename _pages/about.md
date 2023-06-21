@@ -32,7 +32,7 @@ Publications
 
 Working Papers
 ======
- - [Geographic Variation in Mental Health Care: Evidence from Migration](files/Ding_MH_GeoVariation.pdf). 
+ - [Geographic Variation in Mental Health Treatment Utilization: Evidence from Migration](files/Ding_MH_GeoVariation.pdf). 
  - [Germs in the Family: The Long-Term Consequences of Intra-Household Endemic Respiratory Disease Spread](files/ChildSickness_Draft.pdf). 
  <span style="color:gray">Joint with N. Meltem Daysal, Maya Rossin-Slater, and Hannes Schwandt  </span>
   
