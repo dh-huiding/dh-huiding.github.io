@@ -13,8 +13,8 @@ I am an assistant professor in the School of Economics, Fudan University. My res
 
 Academic Position
 ======
-2023.9 - present, Assistant Professor, Fudan University
-2022.7 - 2023.6, Postdoc Associates, Princeton University <br/>
+- 2023.9 - present, Assistant Professor, Fudan University
+- 2022.7 - 2023.6, Postdoc Associates, Princeton University <br/>
 
 
 Education
