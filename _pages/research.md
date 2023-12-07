@@ -12,7 +12,8 @@ Working Papers
 ======
 
 ## [Geographic Variation in Mental Health Treatment Utilization: Evidence from Migration](../files/Ding_MH_GeoVariation.pdf)
- Revise and Resubmit at the *American Economic Journal: Economic Policy* <br/>
+ Revise and Resubmit at the *American Economic Journal: Economic Policy* 
+ 
  <span style="color:gray"> Mental illnesses, including depression and anxiety, are widespread among elderly adults in the U.S. Despite the availability of effective treatments, including services (e.g., psychotherapy) and drugs (e.g., antidepressants, antipsychotics), this paper documents substantial geographic variation in treatment utilization rates among Medicare enrollees. Exploiting patient migration, I show that 45.8% of service utilization variation is attributable to place-specific factors, compared to 15.1% for drug utilization. Further analyses suggest the role of provider accessibility in explaining the different place effects between service and drug use. Regarding health outcomes, I find that higher treatment utilization is associated with lower risks of suicide and self-harm-related Emergency Department visits. </span>
  
 
