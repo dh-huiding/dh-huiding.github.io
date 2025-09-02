@@ -70,8 +70,10 @@ The older population bears a heavy burden of mental illness. Despite the availab
 Joint with N. Meltem Daysal, Maya Rossin-Slater, and Hannes Schwandt <br/> 
 Revise and Resubmit at the *American Economic Review* 
  
- <span style="color:gray"> While the COVID-19 pandemic has laid bare the large costs of infectious diseases, less attention has been paid to the impacts of more common, endemic respiratory viruses that frequently circulate in the population, especially when it comes to their potential long-term consequences for population health, human capital, and economic outcomes. This paper uses Danish population-level administrative data on 35 birth cohorts of children to provide a comprehensive analysis of both the mechanisms through which infants become infected by respiratory illnesses, as well as the consequences of early-life respiratory disease exposure for their later outcomes. First, we document a striking difference in the likelihood of severe respiratory illness by birth order: younger siblings have two to three times higher rates of hospitalization for respiratory conditions before age one than older siblings at the same age. We argue that the family unit is central in virus transmission, with older children “bringing home” the virus to their younger siblings. We then combine the birth order variation with within-municipality variation in respiratory disease prevalence among preschool-aged children to identify differential long-term impacts of early-life respiratory illness between younger and older siblings. We find that moving from the 25th to the 75th percentile in the local disease prevalence distribution (“disease index”) is associated with a 30.9 percent differential increase in the number of respiratory illness hospitalizations in the first year of life for younger compared to older siblings. In the long term, for younger relative to older siblings, we find a 0.5 percent differential reduction in the likelihood of high school graduation, and a 1.3 percent additional reduction in age-30 earnings.  </span>  
- 
+<button class="abstract-toggle" onclick="toggleAbstract('abstract2')">Abstract</button>
+<div id="abstract2" class="abstract">
+While the COVID-19 pandemic has laid bare the large costs of infectious diseases, less attention has been paid to the impacts of more common, endemic respiratory viruses that frequently circulate in the population, especially when it comes to their potential long-term consequences for population health, human capital, and economic outcomes. This paper uses Danish population-level administrative data on 35 birth cohorts of children to provide a comprehensive analysis of both the mechanisms through which infants become infected by respiratory illnesses, as well as the consequences of early-life respiratory disease exposure for their later outcomes. First, we document a striking difference in the likelihood of severe respiratory illness by birth order: younger siblings have two to three times higher rates of hospitalization for respiratory conditions before age one than older siblings at the same age. We argue that the family unit is central in virus transmission, with older children "bringing home" the virus to their younger siblings. We then combine the birth order variation with within-municipality variation in respiratory disease prevalence among preschool-aged children to identify differential long-term impacts of early-life respiratory illness between younger and older siblings. We find that moving from the 25th to the 75th percentile in the local disease prevalence distribution ("disease index") is associated with a 30.9 percent differential increase in the number of respiratory illness hospitalizations in the first year of life for younger compared to older siblings. In the long term, for younger relative to older siblings, we find a 0.5 percent differential reduction in the likelihood of high school graduation, and a 1.3 percent additional reduction in age-30 earnings.
+</div>
  
 
  Publications in Economics
@@ -105,21 +107,25 @@ Joint with Linlin Hu, Guangyu Hu, Zijuan Wang, Shiyang Liu, and Yuanli Liu <br/>
 *Inquiry: A Journal of Medical Care Organization, Provision and Financing* (2019)
 
 
-<button class="abstract-toggle" onclick="toggleAbstract('abstract6')">Abstract</button>
 <div id="abstract6" class="abstract">
 [Abstract not provided in original document]
 </div>
 <script>
 function toggleAbstract(abstractId) {
     const abstract = document.getElementById(abstractId);
-    const button = abstract.previousElementSibling;
+    
+    // Find the button that was clicked by looking for the button just before this abstract
+    let button = abstract.previousElementSibling;
+    while (button && button.tagName !== 'BUTTON') {
+        button = button.previousElementSibling;
+    }
     
     if (abstract.classList.contains('show')) {
         abstract.classList.remove('show');
-        button.textContent = 'Abstract';
+        if (button) button.textContent = 'Abstract';
     } else {
         abstract.classList.add('show');
-        button.textContent = 'Hide Abstract';
+        if (button) button.textContent = 'Hide Abstract';
     }
 }
 </script>
