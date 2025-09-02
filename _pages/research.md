@@ -7,16 +7,23 @@ redirect_from:
 ---
 
 <style>
+body, .page__content {
+    font-size: 0.85em !important;
+    max-width: none !important;
+    width: 100% !important;
+}
+
 .abstract-toggle {
     background: transparent;
     color: #3498db;
     border: 1px solid #3498db;
-    padding: 4px 8px;
+    padding: 2px 6px;
     border-radius: 3px;
     cursor: pointer;
-    font-size: 0.85em;
+    font-size: 0.8em;
     transition: all 0.3s ease;
-    margin-bottom: 10px;
+    margin: 0 0 0 10px;
+    display: inline;
 }
 
 .abstract-toggle:hover {
