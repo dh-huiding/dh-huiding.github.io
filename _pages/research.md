@@ -15,21 +15,21 @@ body, .page__content {
 
 .abstract-toggle {
     background: transparent;
-    color: #3498db;
-    border: 1px solid #3498db;
-    padding: 2px 6px;
-    border-radius: 3px;
+    color: #666;
+    border: none;
+    padding: 0;
+    border-radius: 0;
     cursor: pointer;
     font-size: 0.8em;
     transition: all 0.3s ease;
     margin: 0 0 0 10px;
     display: inline;
+    text-decoration: underline;
+    font-style: italic;
 }
 
 .abstract-toggle:hover {
-    background: #f8f9fa;
-    color: #2980b9;
-    border-color: #2980b9;
+    color: #3498db;
 }
 
 .abstract {
@@ -66,8 +66,7 @@ Working Papers
 
 
 ## [Germs in the Family: The Long-Term Consequences of Intra-Household Endemic Respiratory Disease Spread](../files/ChildSickness.pdf)
-Joint with N. Meltem Daysal, Maya Rossin-Slater, and Hannes Schwandt <br/> 
-Conditionally accepted at the *American Economic Review* 
+Joint with N. Meltem Daysal, Maya Rossin-Slater, and Hannes Schwandt. Conditionally accepted at the *American Economic Review* 
  
 <button class="abstract-toggle" onclick="toggleAbstract('abstract1', this)">Abstract</button>
 <div id="abstract1" class="abstract">
@@ -76,8 +75,7 @@ Preschool-aged children get sick frequently and spread disease to other family m
 
 
 ## [School Milestones Impact on Child Mental Health in Taiwan](../files/MH_School.pdf)
-Joint with Kuan-Ming Chen, Janet Currie, and Wei-Lun Lo <br/> 
-Revise and Resubmit at the *Economic Journal*
+Joint with Kuan-Ming Chen, Janet Currie, and Wei-Lun Lo. Revise and Resubmit at the *Economic Journal*
  
 <button class="abstract-toggle" onclick="toggleAbstract('abstract2', this)">Abstract</button>
 <div id="abstract2" class="abstract">
@@ -86,14 +84,15 @@ We examine child mental health treatment surrounding four school milestones in T
 
 
 ## [The Impact of Public-Private Partnership Health Plans on Private Insurance](../files/PPPinsurance.pdf)
-Joint with Xintong Wang and Xian Xu <br/> 
-Revise and Resubmit at the *Journal of Development Economics*
+Joint with Xintong Wang and Xian Xu. Revise and Resubmit at the *Journal of Development Economics*
  
 <button class="abstract-toggle" onclick="toggleAbstract('abstract3', this)">Abstract</button>
 <div id="abstract3" class="abstract">
 Public-private partnership (PPP) health insurance plans have been viewed as a promising tool to expand coverage while maintaining fiscal sustainability. However, little is known about their impact, particularly whether they increase overall coverage or displace existing private insurance. To examine this, we leverage the staggered introduction of China’s City-Customized Supplemental Medical Insurance (CCSMI) across cities and a novel transaction-level dataset of private health insurance. Results reveal significant spillover effects on both the extensive and intensive margins: CCSMI substantially crowds out private insurance purchases and reduces average coverage amounts. Average premiums paid also decline, with two-thirds of the reduction driven by consumers opting for narrower coverage and the remainder likely due to insurers’ pricing adjustments. A back-of-the-envelope calculation suggests that the decline in private insurance purchases offsets at least 25% of CCSMI enrollment gains. These findings provide important insights for comprehensively evaluating PPP insurance programs.
 </div>
  
+
+<br/> <br/>
 
  Publications in Economics
 ======
@@ -107,8 +106,7 @@ The older population bears a heavy burden of mental illness. Despite the availab
 </div>
 
 ## [Getting the Price Right? The Impact of Competitive Bidding in the Medicare Program](https://direct.mit.edu/rest/article-abstract/107/1/204/113161/Getting-the-Price-Right-The-Impact-of-Competitive) <br/>
-Joint with Mark Duggan and Amanda Starc <br/>
-*Review of Economics and Statistics*
+Joint with Mark Duggan and Amanda Starc. *Review of Economics and Statistics* (2015)
  
 <button class="abstract-toggle" onclick="toggleAbstract('abstract5', this)">Abstract</button>
 <div id="abstract5" class="abstract">
@@ -116,8 +114,7 @@ We study Medicare’s competitive bidding program for durable medical equipment.
 </div>
 
 ## [The Effects of Chronic Disease Management in Primary Health Care: Evidence from Rural China](https://www.sciencedirect.com/science/article/pii/S0167629621001247) <br/>
-Joint with Yiwei Chen, Min Yu, Jieming Zhong, Ruying Hu, Xiangyu Chen, Chunmei Wang, Kaixu Xie, and Karen Eggleston
-*Journal of Health Economics* (2021) 
+Joint with Yiwei Chen, Min Yu, Jieming Zhong, Ruying Hu, Xiangyu Chen, Chunmei Wang, Kaixu Xie, and Karen Eggleston. *Journal of Health Economics* (2021) 
 
 <button class="abstract-toggle" onclick="toggleAbstract('abstract6', this)">Abstract</button>
 <div id="abstract6" class="abstract">
@@ -125,17 +122,17 @@ Health systems globally face increasing morbidity and mortality from chronic dis
 </div>
 
 
+
+<br/> <br/>
  Publications in Public Health and Health Policy
 ======
 
 ## [Influence of Patient and Hospital Characteristics on Inpatient Satisfaction in China's Tertiary Hospitals: A Cross-Sectional Study](https://onlinelibrary.wiley.com/doi/full/10.1111/hex.12974) <br/>
-Joint with Linlin Hu, Shiyang Liu, Zijuan Wang, Guangyu Hu, and Yuanli Liu <br/>
-*Health Expectations* (2020) 
+Joint with Linlin Hu, Shiyang Liu, Zijuan Wang, Guangyu Hu, and Yuanli Liu. *Health Expectations* (2020) 
 
 
 ## [How Perceived Quality of Care Affects Outpatient Satisfaction in China: A Cross-Sectional Study of 136 Tertiary Hospitals](https://journals.sagepub.com/doi/full/10.1177/0046958019895397) <br/>
-Joint with Linlin Hu, Guangyu Hu, Zijuan Wang, Shiyang Liu, and Yuanli Liu <br/>
-*Inquiry: A Journal of Medical Care Organization, Provision and Financing* (2019)
+Joint with Linlin Hu, Guangyu Hu, Zijuan Wang, Shiyang Liu, and Yuanli Liu. *Inquiry: A Journal of Medical Care Organization, Provision and Financing* (2019)
 
 
 <script>
