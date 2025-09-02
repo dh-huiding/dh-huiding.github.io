@@ -6,7 +6,51 @@ author_profile: true
 redirect_from:
 ---
 
- <br/> <br/>
+<style>
+.abstract-toggle {
+    background: #3498db;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.9em;
+    transition: background-color 0.3s ease;
+    margin-bottom: 10px;
+}
+
+.abstract-toggle:hover {
+    background: #2980b9;
+}
+
+.abstract {
+    display: none;
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    color: #555;
+    border-left: 3px solid #3498db;
+    margin-top: 10px;
+    animation: slideDown 0.3s ease-out;
+}
+
+.abstract.show {
+    display: block;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+</style>
+<br/> <br/>
+
 
 Working Papers
 ======
@@ -14,8 +58,11 @@ Working Papers
 ## [Geographic Variation in Mental Health Treatment Utilization: Evidence from Migration](../files/Ding_MH_GeoVariation.pdf)
  Revise and Resubmit at the *American Economic Journal: Economic Policy* 
  
- <span style="color:gray"> The older population bears a heavy burden of mental illness. Despite the availability of effective treatments, including non-drug services (e.g., psychotherapy) and drugs (e.g., antidepressants, antipsychotics), this paper documents substantial geographic variation in treatment utilization rates among Medicare enrollees. Exploiting patient migration, I show that 45.8% of service utilization variation is attributable to placespecific factors, compared to 15.1% for drug utilization. Further analyses suggest the role of provider accessibility in explaining the different place effects between service and drug use. Regarding health outcomes, I find that higher treatment utilization is associated with lower risks of self-harm-related emergency department visits. </span>
- 
+<button class="abstract-toggle" onclick="toggleAbstract('abstract1')">Abstract</button>
+<div id="abstract1" class="abstract">
+The older population bears a heavy burden of mental illness. Despite the availability of effective treatments, including non-drug services (e.g., psychotherapy) and drugs (e.g., antidepressants, antipsychotics), this paper documents substantial geographic variation in treatment utilization rates among Medicare enrollees. Exploiting patient migration, I show that 45.8% of service utilization variation is attributable to place-specific factors, compared to 15.1% for drug utilization. Further analyses suggest the role of provider accessibility in explaining the different place effects between service and drug use. Regarding health outcomes, I find that higher treatment utilization is associated with lower risks of self-harm-related emergency department visits.
+</div>
+
 
 ## [Germs in the Family: The Long-Term Consequences of Intra-Household Endemic Respiratory Disease Spread](../files/ChildSickness_Draft.pdf)
 Joint with N. Meltem Daysal, Maya Rossin-Slater, and Hannes Schwandt <br/> 
