@@ -43,14 +43,14 @@ Publications
 Working Papers
 ======
  - [Germs in the Family: The Long-Term Consequences of Intra-Household Endemic Respiratory Disease Spread](files/ChildSickness.pdf). 
- <span style="color:gray">Joint with N. Meltem Daysal, Maya Rossin-Slater, and Hannes Schwandt. Conditionally accepted at the *American Economic Review*  </span>
+ <span style="color:gray">Joint with N. Meltem Daysal, Maya Rossin-Slater, and Hannes Schwandt. Conditionally accepted at the *American Economic Review* 
  </span> <br/>
  
   - [School Milestones Impact on Child Mental Health in Taiwan](files/MH_School.pdf). 
- <span style="color:gray">Joint with Kuan-Ming Chen, Janet Currie, and Wei-Lun Lo. Revise and Resubmit at the *Economic Journal*  </span>
+ <span style="color:gray">Joint with Kuan-Ming Chen, Janet Currie, and Wei-Lun Lo. Revise and Resubmit at the *Economic Journal* 
  </span> <br/>
  
   - [The Impact of Public-Private Partnership Health Plans on Private Insurance](files/PPPinsurance.pdf). 
- <span style="color:gray">Joint with Xintong Wang and Xian Xu. Revise and Resubmit at the *Journal of Development Economics*  </span>
+ <span style="color:gray">Joint with Xintong Wang and Xian Xu. Revise and Resubmit at the *Journal of Development Economics* 
  </span> <br/>
   
