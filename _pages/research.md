@@ -103,7 +103,7 @@ The older population bears a heavy burden of mental illness. Despite the availab
 
 
 ## [Getting the Price Right? The Impact of Competitive Bidding in the Medicare Program](https://direct.mit.edu/rest/article-abstract/107/1/204/113161/Getting-the-Price-Right-The-Impact-of-Competitive) <br/>
-Joint with Mark Duggan and Amanda Starc. *Review of Economics and Statistics* (2015)
+Joint with Mark Duggan and Amanda Starc. *Review of Economics and Statistics* (2025)
 <button class="abstract-toggle" onclick="toggleAbstract('abstract5', this)">Abstract</button>
 <div id="abstract5" class="abstract">
 We study Medicare’s competitive bidding program for durable medical equipment. We use Medicare claims data to examine the effect on prices and utilization, focusing on continuous positive airway pressure devices for sleep apnea. We find that spending falls by 47.2% after a highly imperfect bidding mechanism is introduced. This is almost entirely driven by a 44.8% price reduction, though quantities also fall by 4.3%. To disentangle supply and demand, we leverage differential cost sharing across Medicare recipients. We measure a demand elasticity of 0.272 and find that quantity reductions are concentrated among less clinically appropriate groups.
@@ -120,6 +120,7 @@ Health systems globally face increasing morbidity and mortality from chronic dis
 
 
 <br/> <br/>
+
  Publications in Public Health and Health Policy
 ======
 
