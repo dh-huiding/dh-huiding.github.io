@@ -103,5 +103,23 @@ Joint with Linlin Hu, Guangyu Hu, Zijuan Wang, Shiyang Liu, and Yuanli Liu <br/>
 *Inquiry: A Journal of Medical Care Organization, Provision and Financing* (2019)
 
 
+<button class="abstract-toggle" onclick="toggleAbstract('abstract6')">Abstract</button>
+<div id="abstract6" class="abstract">
+[Abstract not provided in original document]
+</div>
+<script>
+function toggleAbstract(abstractId) {
+    const abstract = document.getElementById(abstractId);
+    const button = abstract.previousElementSibling;
+    
+    if (abstract.classList.contains('show')) {
+        abstract.classList.remove('show');
+        button.textContent = 'Abstract';
+    } else {
+        abstract.classList.add('show');
+        button.textContent = 'Hide Abstract';
+    }
+}
+</script>
 
 
