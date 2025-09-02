@@ -8,19 +8,21 @@ redirect_from:
 
 <style>
 .abstract-toggle {
-    background: #3498db;
-    color: white;
-    border: none;
-    padding: 6px 12px;
-    border-radius: 4px;
+    background: transparent;
+    color: #3498db;
+    border: 1px solid #3498db;
+    padding: 4px 8px;
+    border-radius: 3px;
     cursor: pointer;
-    font-size: 0.9em;
-    transition: background-color 0.3s ease;
+    font-size: 0.85em;
+    transition: all 0.3s ease;
     margin-bottom: 10px;
 }
 
 .abstract-toggle:hover {
-    background: #2980b9;
+    background: #f8f9fa;
+    color: #2980b9;
+    border-color: #2980b9;
 }
 
 .abstract {
