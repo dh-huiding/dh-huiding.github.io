@@ -25,7 +25,11 @@ Education
 
 Publications
 ======
- - [Getting the Price Right? The Impact of Competitive Bidding in the Medicare Program](files/DME_Draft.pdf). Forthcoming at the *Review of Economics and Statistics*. 
+ - [Geographic Variation in Mental Health Treatment Utilization: Evidence from Migration](files/MH_GeoVariation.pdf). Forthcoming at the *American Economic Journal: Economic Policy*. (2025)
+ <span style="color:gray"> 
+ </span> <br/>
+
+ - [Getting the Price Right? The Impact of Competitive Bidding in the Medicare Program](https://direct.mit.edu/rest/article-abstract/107/1/204/113161/Getting-the-Price-Right-The-Impact-of-Competitive). *Review of Economics and Statistics*. (2025)
  <span style="color:gray"> 
  Joint with Mark Duggan and Amanda Starc.
  </span> <br/>
@@ -38,9 +42,15 @@ Publications
 
 Working Papers
 ======
- - [Geographic Variation in Mental Health Treatment Utilization: Evidence from Migration](files/Ding_MH_GeoVariation.pdf).  
- <span style="color:gray">Revise and Resubmit at the *American Economic Journal: Economic Policy*  </span>
- - [Germs in the Family: The Long-Term Consequences of Intra-Household Endemic Respiratory Disease Spread](files/ChildSickness_Draft.pdf). 
- <span style="color:gray">Joint with N. Meltem Daysal, Maya Rossin-Slater, and Hannes Schwandt. Revise and Resubmit at the *American Economic Review*  </span>
-
+ - [Germs in the Family: The Long-Term Consequences of Intra-Household Endemic Respiratory Disease Spread](files/ChildSickness.pdf). 
+ <span style="color:gray">Joint with N. Meltem Daysal, Maya Rossin-Slater, and Hannes Schwandt. Conditionally accepted at the *American Economic Review*  </span>
+ </span> <br/>
+ 
+  - [School Milestones Impact on Child Mental Health in Taiwan](files/MH_School.pdf). 
+ <span style="color:gray">Joint with Kuan-Ming Chen, Janet Currie, and Wei-Lun Lo. Revise and Resubmit at the *Economic Journal*  </span>
+ </span> <br/>
+ 
+  - [The Impact of Public-Private Partnership Health Plans on Private Insurance](files/PPPinsurance.pdf). 
+ <span style="color:gray">Joint with Xintong Wang and Xian Xu. Revise and Resubmit at the *Journal of Development Economics*  </span>
+ </span> <br/>
   
