@@ -94,8 +94,8 @@ Public-private partnership (PPP) health insurance plans have been viewed as a pr
  Publications in Economics
 ======
 
-## [Geographic Variation in Mental Health Treatment Utilization: Evidence from Migration](../files/MH_GeoVariation.pdf)
-Forthcoming at the *American Economic Journal: Economic Policy* 
+## [Geographic Variation in Mental Health Treatment Utilization: Evidence from Migration](https://www.aeaweb.org/articles?id=10.1257/pol.20230402)
+*American Economic Journal: Economic Policy* （2026）
 <button class="abstract-toggle" onclick="toggleAbstract('abstract4', this)">Abstract</button>
 <div id="abstract4" class="abstract">
 The older population bears a heavy burden of mental illness. Despite the availability of effective treatments, including services (e.g., psychotherapy) and drugs (e.g., antidepressants, antipsychotics), this paper documents substantial geographic variation in treatment utilization rates among Medicare enrollees. Exploiting patient migration, I show that 45.8% of service utilization variation is attributable to place-specific factors, compared to 15.1% for drug utilization. Further analyses suggest the role of provider accessibility in explaining the different place effects between service and drug use. Regarding health outcomes, I find that higher treatment utilization is associated with lower risks of self-harm-related emergency department visits.
