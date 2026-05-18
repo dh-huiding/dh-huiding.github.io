@@ -75,7 +75,7 @@ We examine child mental health treatment surrounding four school milestones in T
 
 ## [When the Load Lightens: Academic Burden and Children’s Mental Health](../files/MH_DRP.pdf)
 Joint with Xiaoyan Lei, Yu Shen, Hong Song, and Qing Zhang.
-<button class="abstract-toggle" onclick="toggleAbstract('abstract2', this)">Abstract</button>
+<button class="abstract-toggle" onclick="toggleAbstract('abstract8', this)">Abstract</button>
 <div id="abstract2" class="abstract">
 Children's mental health presents a major global challenge, with excessive academic pressure as a key driver. This study provides novel causal evidence on the mental health effects of large-scale educational burden-reduction reform by evaluating China’s Double Reduction Policy. Using a difference-in-differences approach, we find the policy significantly improved adolescent mental health: depressive symptom scores decreased by 0.079 standard deviations, and the likelihood of reaching diagnostic thresholds fell by 2.2 percentage points, especially among students under greater pre-reform pressure. Beyond estimating policy impacts, we systematically explore a rich set of underlying mechanisms and analyze the institutional design factors that explain the reform’s relative success. Improvements occur through reduced academic workload, enhanced rather than reduced learning engagement, strengthened academic self-efficacy, improved socioemotional relationships, and healthier lifestyle behaviors. We also document heterogeneous parental responses, with higher anxiety among more educated parents. Our findings carry global implications that coordinated burden-reduction policies can effectively safeguard youth mental health without undermining educational motivation.
 </div>
