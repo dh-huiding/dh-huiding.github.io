@@ -65,34 +65,44 @@ Working Papers
 ======
 
 
-## [Germs in the Family: The Long-Term Consequences of Intra-Household Endemic Respiratory Disease Spread](../files/ChildSickness.pdf)
-Joint with N. Meltem Daysal, Maya Rossin-Slater, and Hannes Schwandt. Conditionally accepted at the *American Economic Review* 
-<button class="abstract-toggle" onclick="toggleAbstract('abstract1', this)">Abstract</button>
-<div id="abstract1" class="abstract">
-Preschool-aged children get sick frequently and spread disease to other family members. Despite the universality of this experience, there is limited causal evidence on the magnitudes and consequences of these externalities, especially for infant siblings with developing immune systems and brains. We use Danish administrative data to document that, before age one, younger siblings have 2-3 times higher hospitalization rates for respiratory conditions than older siblings. We combine birth order and within-municipality variation in respiratory disease prevalence among young children, and find lasting differential impacts of early-life respiratory disease exposure on younger siblings’ earnings, educational attainment, chronic respiratory health and mental health-related outcomes.
-</div>
-
-
 ## [School Milestones Impact on Child Mental Health in Taiwan](../files/MH_School.pdf)
-Joint with Kuan-Ming Chen, Janet Currie, and Wei-Lun Lo. Revise and Resubmit at the *Economic Journal*
+Joint with Kuan-Ming Chen, Janet Currie, and Wei-Lun Lo. Conditionally accepted at the *Economic Journal*
 <button class="abstract-toggle" onclick="toggleAbstract('abstract2', this)">Abstract</button>
 <div id="abstract2" class="abstract">
 We examine child mental health treatment surrounding four school milestones in Taiwan: Primary and middle school entry and high stakes testing for high school and college entry. Given age cutoffs for school entry, we compare August-born to September-born children. August-born reach milestones one year earlier, allowing identification of each milestone’s effect. Entry into primary and middle school increases in mental health prescribing, especially for ADHD and depression. Middle school entry also increases prescribing of anti-anxiety and antipsychotic medications. Use of psychiatric medications falls sharply following high-stakes tests. Effects are stronger in counties where parents and children have higher educational aspirations.
 </div>
 
 
-## [The Impact of Public-Private Partnership Health Plans on Private Insurance](../files/PPPinsurance.pdf)
-Joint with Xintong Wang and Xian Xu. Revise and Resubmit at the *Journal of Development Economics*
-<button class="abstract-toggle" onclick="toggleAbstract('abstract3', this)">Abstract</button>
-<div id="abstract3" class="abstract">
-Public-private partnership (PPP) health insurance plans have been viewed as a promising tool to expand coverage while maintaining fiscal sustainability. However, little is known about their impact, particularly whether they increase overall coverage or displace existing private insurance. To examine this, we leverage the staggered introduction of China’s City-Customized Supplemental Medical Insurance (CCSMI) across cities and a novel transaction-level dataset of private health insurance. Results reveal significant spillover effects on both the extensive and intensive margins: CCSMI substantially crowds out private insurance purchases and reduces average coverage amounts. Average premiums paid also decline, with two-thirds of the reduction driven by consumers opting for narrower coverage and the remainder likely due to insurers’ pricing adjustments. A back-of-the-envelope calculation suggests that the decline in private insurance purchases offsets at least 25% of CCSMI enrollment gains. These findings provide important insights for comprehensively evaluating PPP insurance programs.
+## [When the Load Lightens: Academic Burden and Children’s Mental Health](../files/MH_DRP.pdf)
+Joint with Xiaoyan Lei, Yu Shen, Hong Song, and Qing Zhang.
+<button class="abstract-toggle" onclick="toggleAbstract('abstract2', this)">Abstract</button>
+<div id="abstract2" class="abstract">
+Children's mental health presents a major global challenge, with excessive academic pressure as a key driver. This study provides novel causal evidence on the mental health effects of large-scale educational burden-reduction reform by evaluating China’s Double Reduction Policy. Using a difference-in-differences approach, we find the policy significantly improved adolescent mental health: depressive symptom scores decreased by 0.079 standard deviations, and the likelihood of reaching diagnostic thresholds fell by 2.2 percentage points, especially among students under greater pre-reform pressure. Beyond estimating policy impacts, we systematically explore a rich set of underlying mechanisms and analyze the institutional design factors that explain the reform’s relative success. Improvements occur through reduced academic workload, enhanced rather than reduced learning engagement, strengthened academic self-efficacy, improved socioemotional relationships, and healthier lifestyle behaviors. We also document heterogeneous parental responses, with higher anxiety among more educated parents. Our findings carry global implications that coordinated burden-reduction policies can effectively safeguard youth mental health without undermining educational motivation.
 </div>
+
  
 
 <br/> <br/>
 
  Publications in Economics
 ======
+
+
+## [Germs in the Family: The Long-Term Consequences of Intra-Household Endemic Respiratory Disease Spread](https://www.aeaweb.org/articles?id=10.1257/aer.20231521&&from=f)
+Joint with N. Meltem Daysal, Maya Rossin-Slater, and Hannes Schwandt. Forthcoming at the *American Economic Review* 
+<button class="abstract-toggle" onclick="toggleAbstract('abstract1', this)">Abstract</button>
+<div id="abstract1" class="abstract">
+Preschool-aged children get sick frequently and spread disease to other family members. Despite the universality of this experience, there is limited causal evidence on the magnitudes and consequences of these externalities, especially for infant siblings with developing immune systems and brains. We use Danish administrative data to document that, before age one, younger siblings have 2-3 times higher hospitalization rates for respiratory conditions than older siblings. We combine birth order and within-municipality variation in respiratory disease prevalence among young children, and find lasting differential impacts of early-life respiratory disease exposure on younger siblings’ earnings, educational attainment, chronic respiratory health and mental health-related outcomes.
+</div>
+
+
+## [The Impact of Public-Private Partnership Health Plans on Private Insurance](https://www.sciencedirect.com/science/article/pii/S0304387826000635?casa_token=ttxCoCOt2TIAAAAA:mdefj120zfpXW1RJukrftQvavgaEHJzQ3i8wnmNXylXH5_iFhaoOw6dp0rXf0uk8zMPfEEAkx-TZ)
+Joint with Xintong Wang and Xian Xu. *Journal of Development Economics* （2026）
+<button class="abstract-toggle" onclick="toggleAbstract('abstract3', this)">Abstract</button>
+<div id="abstract3" class="abstract">
+Public-private partnership (PPP) health insurance plans have been viewed as a promising tool to expand coverage while maintaining fiscal sustainability. However, little is known about their impact, particularly whether they increase overall coverage or displace existing private insurance. To examine this, we leverage the staggered introduction of China’s City-Customized Supplemental Medical Insurance (CCSMI) across cities and a novel transaction-level dataset of private health insurance. Results reveal significant spillover effects on both the extensive and intensive margins: CCSMI substantially crowds out private insurance purchases and reduces average coverage amounts. Average premiums paid also decline, with two-thirds of the reduction driven by consumers opting for narrower coverage and the remainder likely due to insurers’ pricing adjustments. A back-of-the-envelope calculation suggests that the decline in private insurance purchases offsets at least 25% of CCSMI enrollment gains. These findings provide important insights for comprehensively evaluating PPP insurance programs.
+</div>
+
 
 ## [Geographic Variation in Mental Health Treatment Utilization: Evidence from Migration](https://www.aeaweb.org/articles?id=10.1257/pol.20230402)
 *American Economic Journal: Economic Policy*（2026）
