@@ -81,7 +81,7 @@ Children's mental health presents a major global challenge, with excessive acade
 </div>
 
 
-## [When Regulatory Scrutiny and Strategic Discharge: Evidence from Hospital Inspections in China](../files/Hospital_Inspection.pdf)
+## [Regulatory Scrutiny and Strategic Discharge: Evidence from Hospital Inspections in China](../files/Hospital_Inspection.pdf)
 Joint with Shoukang Dong, Jin Feng, and Zhen Wang.
 <button class="abstract-toggle" onclick="toggleAbstract('abstract8', this)">Abstract</button>
 <div id="abstract7" class="abstract">
