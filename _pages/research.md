@@ -80,6 +80,14 @@ Joint with Xiaoyan Lei, Yu Shen, Hong Song, and Qing Zhang.
 Children's mental health presents a major global challenge, with excessive academic pressure as a key driver. This study provides novel causal evidence on the mental health effects of large-scale educational burden-reduction reform by evaluating China’s Double Reduction Policy. Using a difference-in-differences approach, we find the policy significantly improved adolescent mental health: depressive symptom scores decreased by 0.079 standard deviations, and the likelihood of reaching diagnostic thresholds fell by 2.2 percentage points, especially among students under greater pre-reform pressure. Beyond estimating policy impacts, we systematically explore a rich set of underlying mechanisms and analyze the institutional design factors that explain the reform’s relative success. Improvements occur through reduced academic workload, enhanced rather than reduced learning engagement, strengthened academic self-efficacy, improved socioemotional relationships, and healthier lifestyle behaviors. We also document heterogeneous parental responses, with higher anxiety among more educated parents. Our findings carry global implications that coordinated burden-reduction policies can effectively safeguard youth mental health without undermining educational motivation.
 </div>
 
+
+## [When Regulatory Scrutiny and Strategic Discharge: Evidence from Hospital Inspections in China](../files/Hospital_Inspection.pdf)
+Joint with Shoukang Dong, Jin Feng, and Zhen Wang.
+<button class="abstract-toggle" onclick="toggleAbstract('abstract7', this)">Abstract</button>
+<div id="abstract7" class="abstract">
+Healthcare audits and inspections are widely used by governments to curb wasteful healthcare spending, yet their effectiveness depends critically on how providers respond to regulatory scrutiny. We study this issue in the context of an on-site hospital inspection program in a large Chinese city. Using administrative health claims data and a stacked difference-in-differences design, we find that inspections increase inpatient discharges by 17% during the on-site inspection period. Patients discharged during this period experience a roughly 25% increase in 30-day readmission rates, driven primarily by readmissions to the same specialty at other hospitals. This pattern provides evidence of premature discharge. Mechanism analyses point to regulatory pressure, with stronger effects in hospitals with heavier workloads and in departments with greater baseline treatment variation. Although inspections significantly reduce length of stay and inpatient expenditures during the index hospitalization, these reductions are offset by increases in post-discharge inpatient utilization, leaving no detectable reduction in overall inpatient resource use over the 90-day follow-up period. These findings suggest that intensive on-site inspections can induce strategic provider responses that compromise healthcare quality and weaken the expected fiscal benefits of enforcement.
+</div>
+
  
 
 <br/> <br/>
@@ -89,7 +97,7 @@ Children's mental health presents a major global challenge, with excessive acade
 
 
 ## [Germs in the Family: The Long-Term Consequences of Intra-Household Endemic Respiratory Disease Spread](https://www.aeaweb.org/articles?id=10.1257/aer.20231521&&from=f)
-Joint with N. Meltem Daysal, Maya Rossin-Slater, and Hannes Schwandt. Forthcoming at the *American Economic Review* 
+Joint with N. Meltem Daysal, Maya Rossin-Slater, and Hannes Schwandt. *American Economic Review* (2026)
 <button class="abstract-toggle" onclick="toggleAbstract('abstract1', this)">Abstract</button>
 <div id="abstract1" class="abstract">
 Preschool-aged children get sick frequently and spread disease to other family members. Despite the universality of this experience, there is limited causal evidence on the magnitudes and consequences of these externalities, especially for infant siblings with developing immune systems and brains. We use Danish administrative data to document that, before age one, younger siblings have 2-3 times higher hospitalization rates for respiratory conditions than older siblings. We combine birth order and within-municipality variation in respiratory disease prevalence among young children, and find lasting differential impacts of early-life respiratory disease exposure on younger siblings’ earnings, educational attainment, chronic respiratory health and mental health-related outcomes.
@@ -97,7 +105,7 @@ Preschool-aged children get sick frequently and spread disease to other family m
 
 
 ## [The Impact of Public-Private Partnership Health Plans on Private Insurance](https://www.sciencedirect.com/science/article/pii/S0304387826000635?casa_token=ttxCoCOt2TIAAAAA:mdefj120zfpXW1RJukrftQvavgaEHJzQ3i8wnmNXylXH5_iFhaoOw6dp0rXf0uk8zMPfEEAkx-TZ)
-Joint with Xintong Wang and Xian Xu. *Journal of Development Economics* （2026）
+Joint with Xintong Wang and Xian Xu. *Journal of Development Economics* (2026)
 <button class="abstract-toggle" onclick="toggleAbstract('abstract3', this)">Abstract</button>
 <div id="abstract3" class="abstract">
 Public-private partnership (PPP) health insurance plans have been viewed as a promising tool to expand coverage while maintaining fiscal sustainability. However, little is known about their impact, particularly whether they increase overall coverage or displace existing private insurance. To examine this, we leverage the staggered introduction of China’s City-Customized Supplemental Medical Insurance (CCSMI) across cities and a novel transaction-level dataset of private health insurance. Results reveal significant spillover effects on both the extensive and intensive margins: CCSMI substantially crowds out private insurance purchases and reduces average coverage amounts. Average premiums paid also decline, with two-thirds of the reduction driven by consumers opting for narrower coverage and the remainder likely due to insurers’ pricing adjustments. A back-of-the-envelope calculation suggests that the decline in private insurance purchases offsets at least 25% of CCSMI enrollment gains. These findings provide important insights for comprehensively evaluating PPP insurance programs.
@@ -105,7 +113,7 @@ Public-private partnership (PPP) health insurance plans have been viewed as a pr
 
 
 ## [Geographic Variation in Mental Health Treatment Utilization: Evidence from Migration](https://www.aeaweb.org/articles?id=10.1257/pol.20230402)
-*American Economic Journal: Economic Policy*（2026）
+*American Economic Journal: Economic Policy* (2026)
 <button class="abstract-toggle" onclick="toggleAbstract('abstract4', this)">Abstract</button>
 <div id="abstract4" class="abstract">
 The older population bears a heavy burden of mental illness. Despite the availability of effective treatments, including services (e.g., psychotherapy) and drugs (e.g., antidepressants, antipsychotics), this paper documents substantial geographic variation in treatment utilization rates among Medicare enrollees. Exploiting patient migration, I show that 45.8% of service utilization variation is attributable to place-specific factors, compared to 15.1% for drug utilization. Further analyses suggest the role of provider accessibility in explaining the different place effects between service and drug use. Regarding health outcomes, I find that higher treatment utilization is associated with lower risks of self-harm-related emergency department visits.
